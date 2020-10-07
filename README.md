@@ -5,7 +5,6 @@ I am Web Developer.
 ```javascript
 const fuku = {
   address: "Japan",
-  job: "Backend developer",
   code: [
     {lang: "Java",
      tool: ["Spring Framework"]},
