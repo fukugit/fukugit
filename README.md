@@ -1,7 +1,9 @@
 ### Hi, Good Coding :jack_o_lantern:
+I am Web Developer.  
 
+### A little more about me...
 ```javascript
-const aboutme = {
+const fuku = {
   address: "Japan",
   job: "Backend developer",
   code: [
