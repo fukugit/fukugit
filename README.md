@@ -3,7 +3,7 @@ I am <font color="red">Web Developer</font>.
 
 ### A little more about me...
 ```javascript
-const fuku = {
+const me = {
   address: "Japan",
   code: [
     {lang: "Java",
