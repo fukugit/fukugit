@@ -1,5 +1,5 @@
 ### Hi, Good Coding :jack_o_lantern:
-I am <font color="red">Web Developer</font>.  
+I am Web Developer.  
 
 ### A little more about me...
 ```javascript
