@@ -1,7 +1,7 @@
 ### Hi, Good Coding :jack_o_lantern:
 
 <p><em>Web Developer at freelance.</em></p>
-I mainly develop with backend langage such as Java at works, but I prefer Frontend to Backend.   
+I do love Java, Typescript, and Node.js.😄  
 
 #### A little more about me...
 ```javascript
