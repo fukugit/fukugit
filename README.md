@@ -5,7 +5,7 @@
 #### A little more about me...
 ```javascript
 const me = {
-  address: "Japan",
+  :family: address: "Japan",
   code: [
     {lang: "Java",
      tool: ["Spring Framework"]},
@@ -18,7 +18,7 @@ const me = {
      blog: "https://fukugit.github.io/blog/", 
      twitter: "https://twitter.com/kurrow1"
   },
-  🌱 I’m currently learning: "Hugo",
+  🌱 learning: "Hugo",
 }
 ```
 
