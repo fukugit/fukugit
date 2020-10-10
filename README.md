@@ -1,11 +1,12 @@
 ### Hi, Good Coding :jack_o_lantern:
 
-<p><em>I am Web Developer at freelance.</em></p>
+<p><em>I am Web Developer at freelance.</em></p>'
+I mainly develop with backend langage such as Java at works, but I prefer Frontend to Backend.   
 
 #### A little more about me...
 ```javascript
 const me = {
-  :family: address: "Japan",
+  address: "Japan",
   code: [
     {lang: "Java",
      tool: ["Spring Framework"]},
@@ -14,11 +15,11 @@ const me = {
     {lang: "CSS Animation",
      tool: ["https://codepen.io/fukugit"]},
   ],
-  📫 sns: {
+  sns: {
      blog: "https://fukugit.github.io/blog/", 
      twitter: "https://twitter.com/kurrow1"
   },
-  🌱 learning: "Hugo",
+  learning: "Hugo",
 }
 ```
 
