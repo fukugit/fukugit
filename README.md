@@ -1,7 +1,8 @@
 ### Hi, Good Coding :jack_o_lantern:
-I am Web Developer.  
 
-### A little more about me...
+<p><em>I am Web Developer at freelance.</em></p>
+
+#### A little more about me...
 ```javascript
 const me = {
   address: "Japan",
@@ -13,13 +14,16 @@ const me = {
     {lang: "CSS Animation",
      tool: ["https://codepen.io/fukugit"]},
   ],
-  sns: {
+  :mailbox:sns: {
      blog: "https://fukugit.github.io/blog/", 
      twitter: "https://twitter.com/kurrow1"
   },
-  challenge: "I am trying Hugo, where I am creating new Hugo theme.",
+  🌱 I’m currently learning: "Hugo",
 }
 ```
+
+### 📫 Contact Me
+- Twitter - [@kurrow1](https://twitter.com/kurrow1)
 
 <!--
 **fukugit/fukugit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
