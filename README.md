@@ -14,7 +14,7 @@ const me = {
     {lang: "CSS Animation",
      tool: ["https://codepen.io/fukugit"]},
   ],
-  :mailbox:sns: {
+  📫 sns: {
      blog: "https://fukugit.github.io/blog/", 
      twitter: "https://twitter.com/kurrow1"
   },
