@@ -1,7 +1,7 @@
 ### Hi, Good Coding :jack_o_lantern:
 
 <p><em>Web Developer at freelance.</em></p>
-<h2>I do love <img src="https://gblobscdn.gitbook.com/assets%2F-LbFy569GFu09bPpzMDJ%2F-LnL1Q42mNY-os41Y9so%2F-LnL3SXs1cbgXFZu0Rkp%2Fvanessa2.png?alt=media&token=9a4442f5-9c6f-433c-8927-ff24d427455c" width="40">, Typescript, and Node.js.  </h2>
+<p>I do love <img src="https://gblobscdn.gitbook.com/assets%2F-LbFy569GFu09bPpzMDJ%2F-LnL1Q42mNY-os41Y9so%2F-LnL3SXs1cbgXFZu0Rkp%2Fvanessa2.png?alt=media&token=9a4442f5-9c6f-433c-8927-ff24d427455c" width="40">, Typescript, and Node.js.  </p>
 
 #### A little more about me...
 ```javascript
