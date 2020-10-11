@@ -1,7 +1,7 @@
 ### Hi, Good Coding :jack_o_lantern:
 
 <p><em>Web Developer at freelance.</em></p>
-<p>I do love Java, Typescript, and Node.js.  </p>
+<p>I do love <font color="red">Java</font>, Typescript, and Node.js.  </p>
 
 #### A little more about me...
 ```javascript
