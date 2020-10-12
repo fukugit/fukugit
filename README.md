@@ -1,7 +1,7 @@
 ### Hello, World!
 
 <p><em>Web Developer at freelance.</em></p>
-<p>I do love <img src="./java.png" width="40"> and <img src="./ts.png" width="25"> and <img src="./node.png" width="30">  </p>
+<p>I do love <img src="./java.png" width="40"> <img src="./ts.png" width="25"> <img src="./node.png" width="30">  </p>
 
 #### A little more about me...
 ```javascript
