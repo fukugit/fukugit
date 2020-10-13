@@ -1,6 +1,6 @@
 ### Hi, I'm Fuku. 
 
-<p><em>Web Developer at freelance.</em>
+<p><em>I'm Web Developer at freelance.</em>
  I love <img src="./java.png" width="30"> <img src="./node.png" width="30"> <img src="./ts.png" width="25">   </p>
 
 #### A little more about me...
