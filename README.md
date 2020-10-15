@@ -1,7 +1,7 @@
 ### Hi, I'm Fuku. 
 
-<p><em>Web Developer at freelance.</em></p>
-<p>I love <img src="./lang.png" width="40"></p>
+<p><em>I'm Web Developer at freelance.</em>
+ I love <img src="./lang.png" width="30"></p>
 
 #### A little more about me...
 ```javascript
