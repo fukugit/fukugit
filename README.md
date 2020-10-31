@@ -23,7 +23,7 @@ const me = {
 }
 ```
 
-### 📫 Contact Me :sob:
+### 📫 Contact Me
 - Twitter - [@kurrow1](https://twitter.com/kurrow1)
 
 <!--
