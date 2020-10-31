@@ -25,6 +25,18 @@ const me = {
 
 ### 📫 Contact Me
 - Twitter - [@kurrow1](https://twitter.com/kurrow1)
+| SNS     | Access                                  |
+| ------- | --------------------------------------- |
+| Twitter | [@kurrow1](https://twitter.com/kurrow1) |
+| Blog    | [Blog](https://fukugit.github.io/blog/) |
+
+### Application
+| Type       | Repository                                                            | Description                             |
+| ---------- | --------------------------------------------------------------------- | --------------------------------------- |
+| Learning   | [learning-npm](https://github.com/fukugit/learning-npm)               | Learning npm/webpack with GitHub Action |
+|            | [learning-typescript](https://github.com/fukugit/learning-typescript) | Learning TS with npm/webpack            |
+| Creation   |                                                                       |                                         |
+| Contribute | Mockito                                                               |                                         |
 
 <!--
 **fukugit/fukugit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
