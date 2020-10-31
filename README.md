@@ -24,7 +24,8 @@ const me = {
 ```
 
 ### 📫 Contact Me
-- Twitter - [@kurrow1](https://twitter.com/kurrow1)
+- Twitter - [@kurrow1](https://twitter.com/kurrow1)  
+
 | SNS     | Access                                  |
 | ------- | --------------------------------------- |
 | Twitter | [@kurrow1](https://twitter.com/kurrow1) |
