@@ -15,29 +15,22 @@ const me = {
     {lang: "CSS Animation",
      tool: ["https://codepen.io/fukugit"]},
   ],
-  sns: {
-     blog: "https://fukugit.github.io/blog/", 
-     twitter: "https://twitter.com/kurrow1"
-  },
-  learning: "Hugo",
 }
 ```
 
+### The below are things I'm developing now.  
+| Type        | Repository                                                                      | Description                              |
+| ----------- | ------------------------------------------------------------------------------- | ---------------------------------------- |
+| Application | [CSS Animation cheatsheet](https://github.com/fukugit/css-animation-cheatsheet) | List of CSS animation attribute selector |
+|             | [fake-api-server](https://github.com/fukugit/fake-api-server)                   | Web server that response dummy JSON      |
+|             | [gulp-img-compress](https://github.com/fukugit/gulp-img-compress)               | resizing and compressing image file      |
+| Contribute  | Mockito                                                                         | sssis                                    |
+| Learning    | [learning-npm](https://github.com/fukugit/learning-npm)                         | Learning npm/webpack with GitHub Action  |
+|             | [learning-typescript](https://github.com/fukugit/learning-typescript)           | Learning TS with npm/webpack             |
+| Blog        | [blog](https://fukugit.github.io/blog/)                                         | My Blog with Hugo                        |
+
 ### 📫 Contact Me
 - Twitter - [@kurrow1](https://twitter.com/kurrow1)  
-
-| SNS     | Access                                  |
-| ------- | --------------------------------------- |
-| Twitter | [@kurrow1](https://twitter.com/kurrow1) |
-| Blog    | [Blog](https://fukugit.github.io/blog/) |
-
-### Application
-| Type       | Repository                                                            | Description                             |
-| ---------- | --------------------------------------------------------------------- | --------------------------------------- |
-| Learning   | [learning-npm](https://github.com/fukugit/learning-npm)               | Learning npm/webpack with GitHub Action |
-|            | [learning-typescript](https://github.com/fukugit/learning-typescript) | Learning TS with npm/webpack            |
-| Creation   |                                                                       |                                         |
-| Contribute | Mockito                                                               |                                         |
 
 <!--
 **fukugit/fukugit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
