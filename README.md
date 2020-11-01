@@ -18,7 +18,7 @@ const me = {
 }
 ```
 
-### The below are things I'm developing now.  
+#### The below are things I'm developing now.  
 | Type        | Repository                                                                      | Description                              |
 | ----------- | ------------------------------------------------------------------------------- | ---------------------------------------- |
 | Application | [CSS Animation cheatsheet](https://github.com/fukugit/css-animation-cheatsheet) | List of CSS animation attribute selector |
@@ -29,7 +29,7 @@ const me = {
 |             | [learning-typescript](https://github.com/fukugit/learning-typescript)           | Learning TS with npm/webpack             |
 | Blog        | [blog](https://fukugit.github.io/blog/)                                         | My Blog with Hugo                        |
 
-### 📫 Contact Me
+#### 📫 Contact Me
 - Twitter - [@kurrow1](https://twitter.com/kurrow1)  
 
 <!--
