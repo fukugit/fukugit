@@ -1,9 +1,9 @@
-### Hi, I'm Fuku. 
+### :wave: Hi, I'm Fuku. 
 
 <p><em>I'm Web Developer.</em>
  I love <img src="./lang.png" width="100"></p>
 
-#### A little more about me...
+#### :yum: A little more about me...
 ```javascript
 const me = {
   address: "Japan",
@@ -13,12 +13,12 @@ const me = {
     {lang: "Typescript",
      tool: ["Node.js", "Vue.js"]},
     {lang: "CSS Animation",
-     tool: ["https://codepen.io/fukugit"]},
+     tool: ["Sass"]},
   ],
 }
 ```
 
-#### The below are things I'm developing now.  
+#### :nut_and_bolt: The below are things I'm developing now.  
 | Type        | Repository                                                                      | Description                              |
 | ----------- | ------------------------------------------------------------------------------- | ---------------------------------------- |
 | Application | [CSS Animation cheatsheet](https://github.com/fukugit/css-animation-cheatsheet) | List of CSS animation attribute selector |
@@ -29,8 +29,9 @@ const me = {
 |             | [learning-typescript](https://github.com/fukugit/learning-typescript)           | Learning TS with npm/webpack             |
 | Blog        | [blog](https://fukugit.github.io/blog/)                                         | My Blog with Hugo                        |
 
-#### 📫 Contact Me
-- Twitter - [@kurrow1](https://twitter.com/kurrow1)  
+#### :postbox: SNS
+- [Twitter](https://twitter.com/kurrow1) -  
+- [CodePen](https://codepen.io/fukugit) -  
 
 <!--
 **fukugit/fukugit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
