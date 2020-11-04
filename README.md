@@ -1,4 +1,4 @@
-### :wave: Hi, I'm Fuku. 
+### Hi :wave: , I'm Fuku. 
 
 <p><em>I'm Web Developer.</em>
  I love <img src="./lang.png" width="100"></p>
