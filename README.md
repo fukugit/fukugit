@@ -3,7 +3,7 @@
 <p><em>I'm Web Developer.</em>
  I love <img src="./lang.png" width="100"></p>
 
-#### A little more about me...
+#### :bird: A little more about me...
 ```javascript
 const me = {
   address: "Japan",
