@@ -19,19 +19,28 @@ const me = {
 ```
 
 #### :nut_and_bolt: The below are things I'm developing now.  
-| Type        | Repository                                                                      | Description                              |
-| ----------- | ------------------------------------------------------------------------------- | ---------------------------------------- |
-| Application | [CSS Animation cheatsheet](https://github.com/fukugit/css-animation-cheatsheet) | List of CSS animation attribute selector |
-|             | [fake-api-server](https://github.com/fukugit/fake-api-server)                   | Web server that response dummy JSON      |
-|             | [gulp-img-compress](https://github.com/fukugit/gulp-img-compress)               | resizing and compressing image file      |
-| Contribute  | Mockito                                                                         | sssis                                    |
-| Learning    | [learning-npm](https://github.com/fukugit/learning-npm)                         | Learning npm/webpack with GitHub Action  |
-|             | [learning-typescript](https://github.com/fukugit/learning-typescript)           | Learning TS with npm/webpack             |
-| Blog        | [blog](https://fukugit.github.io/blog/)                                         | My Blog with Hugo                        |
+| Type        | Repository                                                                        | Description                             |
+| ----------- | --------------------------------------------------------------------------------- | --------------------------------------- |
+| Application | [CSS Animation cheatsheet](https://github.com/fukugit/css-animation-cheatsheet)   | Listed CSS animation attribute selector |
+|             | [fake-api-server](https://github.com/fukugit/fake-api-server)                     | Web server that responses dummy JSON    |
+|             | [gulp-img-compress](https://github.com/fukugit/gulp-img-compress)                 | Resizing and compressing image file     |
+| Contribute  | Mockito                                                                           |                                         |
+| Learning    | [learning-npm](https://github.com/fukugit/learning-npm)                           | Learning npm/webpack with GitHub Action |
+|             | [learning-typescript](https://github.com/fukugit/learning-typescript)             | Learning TS with npm/webpack            |
+|             | [learning-google-extension](https://github.com/fukugit/learning-google-extension) | Learning Google Extention               |
+|             | [learning-javascript](https://github.com/fukugit/learning-javascript)             | Learning JavaScript with npm            |
+|             | [learning-website](https://github.com/fukugit/learning-website)                   |                                         |
+|             | [learning-nodejs](https://github.com/fukugit/learning-nodejs)                     |                                         |
+|             | [java-new-features](https://github.com/fukugit/java-new-features)                 |                                         |
+|             | [spring-framework-RabbitMQ](https://github.com/fukugit/spring-framework-RabbitMQ) |                                         |
+|             | [spring-boot-oauth2](https://github.com/fukugit/spring-boot-oauth2)               |                                         |
+|             | [rest-api](https://github.com/fukugit/rest-api)                                   |                                         |
+|             | [git-training](https://github.com/fukugit/git-training)                           |                                         |
+| Other       | [blog](https://fukugit.github.io/blog/)                                           | My Blog with Hugo                       |
 
 #### :postbox: SNS
-- [Twitter](https://twitter.com/kurrow1) -  
-- [CodePen](https://codepen.io/fukugit) -  
+- [Twitter](https://twitter.com/kurrow1)  
+- [CodePen](https://codepen.io/fukugit)  
 
 <!--
 **fukugit/fukugit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
