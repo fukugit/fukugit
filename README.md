@@ -34,10 +34,10 @@ const me = {
 |             | [Node.js](https://github.com/fukugit/learning-nodejs)                                           | with Express.                         |
 |             | [Java](https://github.com/fukugit/java-new-features)                                            | Comming soon.                         |
 |             | [Spring Framework RabbitMQ](https://github.com/fukugit/spring-framework-RabbitMQ)               | will be removed.                      |
-|             | [Spring Framework Oauth2](https://github.com/fukugit/spring-boot-oauth2)                        | comming soon.                         |
+|             | [Spring Framework Oauth2](https://github.com/fukugit/spring-boot-oauth2)                        | Comming soon.                         |
 |             | [Spring Frameowrk Rest API](https://github.com/fukugit/rest-api)                                | Comming soon.                         |
-|             | [Git](https://github.com/fukugit/git-training)                                                  |                                       |
-|             | [Meno for way of creating website](https://github.com/fukugit/learning-website)                 |                                       |
+|             | [Git](https://github.com/fukugit/git-training)                                                  | Maybe will be removed.                |
+|             | [Meno for way of creating website](https://github.com/fukugit/learning-website)                 | Memo about creating website.          |
 | Other       | [Blog](https://fukugit.github.io/blog/)                                                         | My Blog with Hugo                     |
 
 #### :postbox: SNS
