@@ -25,7 +25,7 @@ const me = {
 |             | [gulp-img-compress](https://github.com/fukugit/gulp-img-compress)                 | Resizes and compresses image file. |
 | Learning    | [Webpack for JavaScript](https://github.com/fukugit/learning-webpack)             | Run on GitHab Actions.             |
 |             | [Webpack for TypeScript](https://github.com/fukugit/)                             | Comming soon.                      |
-|             | [Webpack for Vue.js.](https://github.com/fukugit/)                                | Comming soon.                      |
+|             | [Webpack for Vue.js](https://github.com/fukugit/)                                 | Comming soon.                      |
 |             | [TypeScript](https://github.com/fukugit/learning-typescript)                      | Basic code syntax.                 |
 |             | [Google Extension](https://github.com/fukugit/learning-google-extension)          | Basic code syntax.                 |
 |             | [JavaScript](https://github.com/fukugit/learning-javascript)                      | Basic code syntax.                 |
