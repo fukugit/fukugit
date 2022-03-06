@@ -1,61 +1,21 @@
 ### Hi :wave:
 
 <p><em>I'm Web Developer.</em>
- I love Java, Node.js and TypeScript.</p>
+ I'm a Full-Stack Developer and love Java, Node.js and TypeScript.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 
-#### :bird: A little more about me...
-```javascript
-const me = {
-  code: [
-    {lang: "Java",
-     tool: ["Spring Framework"]},
-    {lang: "TypeScript",
-     tool: ["Node.js", "Vue.js"]},
-    {lang: "CSS Animation",
-     tool: ["Sass"]},
-  ],
-}
-```
+[![Twitter Follow](https://img.shields.io/twitter/follow/kurrow1?label=Follow)](https://twitter.com/intent/follow?screen_name=kurrow1)
+![GitHub followers](https://img.shields.io/github/followers/fukugit?label=Follow&style=social)
 
-#### :nut_and_bolt: The below are things I'm developing now.  
-| Type        | Repository                                                                        | Description                        |
-| ----------- | --------------------------------------------------------------------------------- | ---------------------------------- |
-| Application | [CSS Animation cheatsheet](https://github.com/fukugit/css-animation-cheatsheet)   | Usage of CSS animation attribute.  |
-|             | [fake-api-server](https://github.com/fukugit/fake-api-server)                     | Responses dummy JSON.              |
-|             | [gulp-img-compress](https://github.com/fukugit/gulp-img-compress)                 | Resizes and compresses image file. |
-| Learning    | [Webpack for JavaScript](https://github.com/fukugit/learning-webpack)             | Run on GitHab Actions.             |
-|             | [Webpack for TypeScript](https://github.com/fukugit/learning-webpack-typescript)  | Run on GitHub Actions. soon.       |
-|             | [Webpack for Vue.js](https://github.com/fukugit/)                                 | Comming soon.                      |
-|             | [TypeScript](https://github.com/fukugit/learning-typescript)                      | Basic code syntax.                 |
-|             | [Google Extension](https://github.com/fukugit/learning-google-extension)          | Basic code syntax.                 |
-|             | [JavaScript](https://github.com/fukugit/learning-javascript)                      | Basic code syntax.                 |
-|             | [Node.js](https://github.com/fukugit/learning-nodejs)                             | With Express.                      |
-|             | [GitHub Actions](https://github.com/fukugit/learning-github-actions)              | Comming soon.                      |
-|             | [Vue.js](https://github.com/fukugit/learning-vue)                                 | With CDN                           |
-|             | [Vue-cli](https://github.com/fukugit/learning-vue-cli)                            | With not webpack.                  |
-|             | [Java](https://github.com/fukugit/java-new-features)                              | Comming soon.                      |
-|             | [Spring Framework RabbitMQ](https://github.com/fukugit/spring-framework-RabbitMQ) | will be removed.                   |
-|             | [Spring Framework Oauth2](https://github.com/fukugit/spring-boot-oauth2)          | Comming soon.                      |
-|             | [Spring Frameowrk Rest API](https://github.com/fukugit/rest-api)                  | Comming soon.                      |
-|             | [Git](https://github.com/fukugit/git-training)                                    | Maybe will be removed.             |
-|             | [My Meno](https://github.com/fukugit/learning-website)                            | Memo about creating website.       |
-| Other       | [Blog](https://fukugit.github.io/blog/)                                           | My Blog with Hugo                  |
+<img align='right' src="https://media.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif" width="230">
 
-#### :postbox: SNS
-- [Twitter](https://twitter.com/kurrow1)  
-- [CodePen](https://codepen.io/fukugit)  
+##### NOW
 
-<!--
-**fukugit/fukugit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <img src="https://media.giphy.com/media/VIEEC7Jl1LnxE6ntlF/giphy.gif" width="20"> I'm now free freelance programmer.  
+- <img src="https://media.giphy.com/media/YHpmahJgMjxL6S29Au/giphy.gif" width="20"> Writting blog.  
+- <img src="https://media.giphy.com/media/26BoCVdjSJOWT0Fpu/giphy.gif" width="20"> Creating CSS snippets in [CodePen](https://codepen.io/fukugit).  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### BIO
+
+- ⚙️ I use daily: `.java`, `.js`, `.html`, `.css`.
+- 🌱 Learning all about **Open Source**
