@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/kurrow1?label=Follow)](https://twitter.com/intent/follow?screen_name=kurrow1)
 ![GitHub followers](https://img.shields.io/github/followers/fukugit?label=Follow&style=social)
 
-<img align='right' src="https://media.giphy.com/media/ptqAPgghLtHOa0SLJS/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/QxpsxQzaJ70QFCEf5U/giphy.gif" width="400">
 
 ##### NOW
 
