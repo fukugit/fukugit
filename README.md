@@ -23,6 +23,10 @@
 
 ##### GitHub Stats
 
-![Contribution Graph](https://ghchart.rshah.org/fukugit)
+![](profile-summary-card-output/solarized/0-profile-details.svg)
 
-![Most Commit Language](profile-summary-card-output/default/2-most-commit-language.svg)
+![](profile-summary-card-output/solarized/1-repos-per-language.svg)
+![](profile-summary-card-output/solarized/2-most-commit-language.svg)
+
+![](profile-summary-card-output/solarized/3-stats.svg)
+![](profile-summary-card-output/solarized/4-productive-time.svg)
