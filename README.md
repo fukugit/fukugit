@@ -25,4 +25,4 @@
 
 ![Contribution Graph](https://ghchart.rshah.org/fukugit)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fukugit)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+![Most Commit Language](profile-summary-card-output/default/2-most-commit-language.svg)
