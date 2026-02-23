@@ -23,5 +23,6 @@
 
 ##### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fukugit&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fukugit&layout=compact)
+![Contribution Graph](https://ghchart.rshah.org/fukugit)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fukugit)](https://github.com/Ashutosh00710/github-readme-activity-graph)
